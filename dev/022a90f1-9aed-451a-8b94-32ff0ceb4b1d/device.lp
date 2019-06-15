@@ -1,6 +1,6 @@
 (librepcb_device 022a90f1-9aed-451a-8b94-32ff0ceb4b1d
  (name "Phoenix PTSA 1.5/3-3.5-Z")
- (description "PCB termination blocks, offset pins, 3.5 mm pitch")
+ (description "Spring-Cage PCB Termination Block with 3 positions, 45 degree mount with 3.5mm pitch")
  (keywords "ptsa,combicon,spring-cage")
  (author "Raphael Nestler")
  (version "0.1")
