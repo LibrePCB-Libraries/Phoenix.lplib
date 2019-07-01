@@ -2,7 +2,7 @@
 
 ## Description
 
-Connectors, sockets and more (inofficial).
+Connectors, sockets and more (unofficial).
 
 ## License
 

@@ -1,6 +1,6 @@
 (librepcb_library 58e570ce-a69e-466c-bbe0-65f716386e56
  (name "Phoenix")
- (description "Connectors, sockets and more (inofficial).")
+ (description "Connectors, sockets and more (unofficial).")
  (keywords "phoenix,contact,connectors")
  (author "LibrePCB")
  (version "0.1.1")
