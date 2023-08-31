@@ -13,4 +13,6 @@
  (pad 23e67ff6-c877-4341-8f69-2249707dd252 (signal 0fce2b54-6c4d-4fb2-8229-8ccd56b78f3d))
  (pad 824914fc-da79-471d-94cc-157da92159d8 (signal a67fd334-a144-42f2-a582-a8c1bdbcbcee))
  (pad 867e6ba9-b0cd-46a3-a720-e249670f36e6 (signal 90333d19-ae13-468d-ac46-f52fd51015ff))
+ (part "1985205" (manufacturer "Phoenix Contact")
+ )
 )
