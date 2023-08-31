@@ -9,5 +9,5 @@
  (url "https://github.com/LibrePCB-Libraries/Phoenix.lplib")
  (dependency 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
- (manufacturer "")
+ (manufacturer "Phoenix Contact")
 )
