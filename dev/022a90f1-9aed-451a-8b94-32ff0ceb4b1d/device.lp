@@ -3,7 +3,7 @@
  (description "Spring-Cage PCB Termination Block with 3 positions, 45 degree mount with 3.5mm pitch")
  (keywords "ptsa,combicon,spring-cage")
  (author "Raphael Nestler")
- (version "0.1")
+ (version "0.2")
  (created 2019-06-15T01:16:11Z)
  (deprecated false)
  (generated_by "")

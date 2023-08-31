@@ -3,7 +3,7 @@
  (description "Connectors, sockets and more (unofficial).")
  (keywords "phoenix,contact,connectors")
  (author "LibrePCB")
- (version "0.1.1")
+ (version "0.2")
  (created 2019-06-14T22:41:50Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Phoenix.lplib")
