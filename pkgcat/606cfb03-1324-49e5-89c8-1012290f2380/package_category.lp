@@ -1,0 +1,10 @@
+(librepcb_package_category 606cfb03-1324-49e5-89c8-1012290f2380
+ (name "Phoenix Contact")
+ (description "Custom packages by Phoenix Contact.")
+ (keywords "phoenix,contact")
+ (author "U. Bruhin")
+ (version "0.1")
+ (created 2023-09-04T10:41:28Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
